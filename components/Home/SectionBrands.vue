@@ -32,7 +32,7 @@ export default {
 @import "@/assets/scss/utils";
 
 .brands {
-  background-image: url(images/background-mobile.jpg);
+  background-image: url(/wax-io/images/background-mobile.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;

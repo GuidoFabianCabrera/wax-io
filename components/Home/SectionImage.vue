@@ -44,7 +44,7 @@ export default {
   // background: transparent;
   color: #4f5052;
 
-  background-image: url(images/background-mobile.jpg);
+  background-image: url(/wax-io/images/background-mobile.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;

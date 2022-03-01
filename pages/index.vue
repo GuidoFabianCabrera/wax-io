@@ -384,7 +384,7 @@ export default {
 @import "@/assets/scss/utils";
 
 .app {
-  background-image: url(images/background.jpg);
+  background-image: url(/wax-io/images/background.jpg);
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: center center;
