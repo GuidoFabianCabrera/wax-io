@@ -3,7 +3,7 @@ import colors from "vuetify/es5/util/colors";
 const description =
   "The Worldwide Asset eXchange (WAX) is the safest and most convenient way to create, buy, sell, and trade virtual items - to anyone, anywhere in the world.";
 const title = "WAX NFT Blockchain | Worldwide Asset eXchange";
-const url = "https://guidofabiancabrera.github.io/wax-io/images/og-image.jpg";
+const url = "https://guidofabiancabrera.github.io/wax-io/images/og-image-2.jpg";
 
 export default {
   // Target: https://go.nuxtjs.dev/config-target
